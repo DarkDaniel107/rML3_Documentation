@@ -1,113 +1,59 @@
-API
-===
+**API refrence**
+===========
 
-.. autosummary::
-   :toctree: generated
 Want to add:
+---------
 
 Movement:
-.. code-block:: cs
-   void OnMoveLeft()
-
-.. code-block:: cs
-   OnMoveRight
-
-.. code-block:: cs
-   OnJump
+--------
+OnMoveLeft
+OnMoveRight
+OnJump
 
 
 Player:
-.. code-block:: cs
-   OnPlayerRotate
-
-.. code-block:: cs
-   OnPlayerRespawn
-
-.. code-block:: cs
-   OnPlayerKilled
+---------
+OnPlayerRotate
+OnPlayerRespawn
+OnPlayerKilled
 
 Level:
-.. code-block:: cs
-   OnLevelLoad
-
-.. code-block:: cs
-   OnLevelUnload
+---------
+OnLevelLoad
+OnLevelUnload
 
 Menu:
-.. code-block:: cs
-   OnPlayButtonPressed
+---------
+OnPlayButtonPressed
+OnSettingsButtonPressed
+OnMusicButtonPressed
+OnSoundButtonPressed
+OnLeaderboardButtonPressed
+OnRankingButtonPressed
+OnAdvertisementPressed
+OnCreditsPressed
+OnQualityPressed
+OnShopButtonPressed
 
-.. code-block:: cs
-   OnSettingsButtonPressed
-
-.. code-block:: cs
-   OnMusicButtonPressed
-
-.. code-block:: cs
-   OnSoundButtonPressed
-
-.. code-block:: cs
-   OnLeaderboardButtonPressed
-
-.. code-block:: cs
-   OnRankingButtonPressed
-
-.. code-block:: cs
-   OnAdvertisementPressed
-
-.. code-block:: cs
-   OnCreditsPressed
-
-.. code-block:: cs
-   OnQualityPressed
-
-.. code-block:: cs
-   OnShopButtonPressed
-
-
-.. code-block:: cs
-   OnPause
-
-.. code-block:: cs
-   OnResume
-
-.. code-block:: cs
-   OnReturnToMenu
-
-.. code-block:: cs
-   OnMap
-
-.. code-block:: cs
-   OnMapLevelPressed
-
-.. code-block:: cs
-   OnPreviousLevelPressed
-
-.. code-block:: cs
-   OnNextLevelPressed
+OnPause
+OnResume
+OnReturnToMenu
+OnMap
+OnMapLevelPressed
+OnPreviousLevelPressed
+OnNextLevelPressed
 
 Editor
-.. code-block:: cs
-   OnEditorButtonPressed
+---------
+OnEditorButtonPressed
+OnBuild
+OnSave
+OnExport
 
-.. code-block:: cs
-   OnBuild
-
-.. code-block:: cs
-   OnSave
-
-.. code-block:: cs
-   OnExport
-
-.. code-block:: cs
-   Shop
-
-.. code-block:: cs
-   OnBuy
-
-.. code-block:: cs
-   OnBuySuccess
-
+Shop
+---------
+OnBuy
+OnBuySuccess
 
 
 
