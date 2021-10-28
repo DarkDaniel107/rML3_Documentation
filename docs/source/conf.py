@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'rML3'
+copyright = '2021, QuantumEdge'
+author = 'DarkDaniel107'
 
 release = '0.1'
 version = '0.1.0'
