@@ -7,106 +7,106 @@ Want to add:
 
 Movement:
 .. code-block:: cs
-void OnMoveLeft()
+   void OnMoveLeft()
 
 .. code-block:: cs
-OnMoveRight
+   OnMoveRight
 
 .. code-block:: cs
-OnJump
+   OnJump
 
 
 Player:
 .. code-block:: cs
-OnPlayerRotate
+   OnPlayerRotate
 
 .. code-block:: cs
-OnPlayerRespawn
+   OnPlayerRespawn
 
 .. code-block:: cs
-OnPlayerKilled
+   OnPlayerKilled
 
 Level:
 .. code-block:: cs
-OnLevelLoad
+   OnLevelLoad
 
 .. code-block:: cs
-OnLevelUnload
+   OnLevelUnload
 
 Menu:
 .. code-block:: cs
-OnPlayButtonPressed
+   OnPlayButtonPressed
 
 .. code-block:: cs
-OnSettingsButtonPressed
+   OnSettingsButtonPressed
 
 .. code-block:: cs
-OnMusicButtonPressed
+   OnMusicButtonPressed
 
 .. code-block:: cs
-OnSoundButtonPressed
+   OnSoundButtonPressed
 
 .. code-block:: cs
-OnLeaderboardButtonPressed
+   OnLeaderboardButtonPressed
 
 .. code-block:: cs
-OnRankingButtonPressed
+   OnRankingButtonPressed
 
 .. code-block:: cs
-OnAdvertisementPressed
+   OnAdvertisementPressed
 
 .. code-block:: cs
-OnCreditsPressed
+   OnCreditsPressed
 
 .. code-block:: cs
-OnQualityPressed
+   OnQualityPressed
 
 .. code-block:: cs
-OnShopButtonPressed
+   OnShopButtonPressed
 
 
 .. code-block:: cs
-OnPause
+   OnPause
 
 .. code-block:: cs
-OnResume
+   OnResume
 
 .. code-block:: cs
-OnReturnToMenu
+   OnReturnToMenu
 
 .. code-block:: cs
-OnMap
+   OnMap
 
 .. code-block:: cs
-OnMapLevelPressed
+   OnMapLevelPressed
 
 .. code-block:: cs
-OnPreviousLevelPressed
+   OnPreviousLevelPressed
 
 .. code-block:: cs
-OnNextLevelPressed
+   OnNextLevelPressed
 
 Editor
 .. code-block:: cs
-OnEditorButtonPressed
+   OnEditorButtonPressed
 
 .. code-block:: cs
-OnBuild
+   OnBuild
 
 .. code-block:: cs
-OnSave
+   OnSave
 
 .. code-block:: cs
-OnExport
+   OnExport
 
 .. code-block:: cs
-Shop
+   Shop
 
 .. code-block:: cs
-OnBuy
+   OnBuy
 
 .. code-block:: cs
-OnBuySuccess
+   OnBuySuccess
 
 
 
